@@ -47,7 +47,7 @@ This project is in its early stages, aiming to develop a unique GPU Runtime Pass
 
 Questions or ideas? Contact me via:
 
-- Email: [gmail](mailto:ivan.tko35@gmail.com)
+- Email: [iv.tko@pm.me](mailto:iv.tko@pm.me)
 - GitHub: [@ivantko](https://github.com/ivantko)
 
 Let's collaborate to make this tool both powerful and user-friendly!
