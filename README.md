@@ -25,3 +25,29 @@ Traditional password strength meters often provide an estimated time to crack th
 - **Security Enthusiasts:** Individuals interested in understanding and improving their password security.
 - **Educators:** Teachers or organizations looking to demonstrate the importance of strong passwords.
 - **Researchers:** Those studying password security and economics who need a tool for quick and realistic estimations.
+
+## Project Status
+
+### Inception
+
+This project is in its early stages, aiming to develop a unique GPU Runtime Password Cost Calculator. We're laying the groundwork and are excited about the journey ahead.
+
+### Collaboration Welcome
+
+**Join the Effort:** If you're interested in security, economic modeling, or just making impactful tools, your contributions are welcome. Ways to contribute include offering suggestions, enhancing features, coding, or testing.
+
+### Quick Start for Contributors
+
+1. **Reach Out:** Share your ideas or propose improvements.
+2. **Fork & Branch:** Fork the repo and create your feature branch.
+3. **Develop & Test:** Implement your changes and test them.
+4. **Pull Request:** Submit your enhancements for review.
+
+### Get in Touch
+
+Questions or ideas? Contact me via:
+
+- Email: [gmail](mailto:ivan.tko35@gmail.com)
+- GitHub: [@ivantko](https://github.com/ivantko)
+
+Let's collaborate to make this tool both powerful and user-friendly!
